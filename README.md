@@ -114,9 +114,29 @@ wsl --install
 
 #### 2.2.1 프로젝트 다운로드
 
-실습 자료를 다운로드하거나 USB로 받은 후, 원하는 위치에 압축 해제합니다.
+다음 중 한 가지 방법을 선택하여 프로젝트를 다운로드합니다.
+
+**방법 1: Git Clone (권장)**
+
+Git이 설치되어 있는 경우:
+
+```bash
+git clone https://github.com/abcseagrs/tenseal-lab.git
+cd tenseal-lab
+```
+
+**방법 2: ZIP 파일 다운로드**
+
+1. [GitHub 저장소](https://github.com/abcseagrs/tenseal-lab) 접속
+2. 녹색 "Code" 버튼 클릭
+3. "Download ZIP" 선택
+4. 다운로드한 ZIP 파일을 원하는 위치에 압축 해제
 
 예시: `C:\Users\학생이름\tenseal-lab`
+
+**방법 3: USB 배포**
+
+실습 자료를 USB로 받은 경우, 원하는 위치에 복사합니다.
 
 #### 2.2.2 디렉토리 구조 확인
 
